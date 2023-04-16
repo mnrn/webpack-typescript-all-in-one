@@ -1,0 +1,6 @@
+dist
+
+public/js
+public/css
+
+cypress
